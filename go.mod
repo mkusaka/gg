@@ -1,4 +1,4 @@
-module github.com/mkusaka/gg
+module github.com/mkusaka/gog
 
 go 1.19
 
